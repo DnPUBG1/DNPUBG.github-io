@@ -1,0 +1,11 @@
+Package: dnios.dn.unc0ver802
+Verssion: 8.0.2
+Section:Development
+Filename: ./debs/dnios.dn.unc0ver802_8.0.2.deb
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Architecture: iphoneos-arm
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+Size: 54459118
+Description: DNIOS
+Name: DNIOS UNC0VER
+Author:DNIOS
